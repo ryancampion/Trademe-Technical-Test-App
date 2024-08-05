@@ -11,3 +11,5 @@ Repo for the Trademe Technical Test App by Ryan Campion for the role of Senior i
 * Live/Mock Data switching via Scheme selection
 * Error handling to UI Alert for Fetching Live Data
 
+## Screenshot
+<img width="359" alt="Screenshot 2024-08-06 at 9 13 48 AM" src="https://github.com/user-attachments/assets/dd9c3ad0-b9fc-40ad-92d5-63cd56b052bd">
